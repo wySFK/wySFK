@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wyslie Van Basa /h1>
+<h1 align="center">Hi 👋, I'm Wyslie Van Basa </h1>
 <h3 align="center">Front-End Developer | UI/UX Enthusiast | Tech Explorer</h3>
 
 ---
