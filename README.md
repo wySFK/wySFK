@@ -39,7 +39,7 @@
 ## Connect With Me  
 <p>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="wyslievan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://wys-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge"></a>
 </p>
 
