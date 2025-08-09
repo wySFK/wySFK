@@ -29,13 +29,6 @@
 
 ---
 
-## Featured Projects  
-- **[Portfolio Website](https://github.com/yourusername/portfolio)** – Personal portfolio built with HTML, CSS, JavaScript  
-- **[E-Commerce Landing Page](https://github.com/yourusername/ecommerce)** – Fully responsive store landing page  
-- **[UI Components Library](https://github.com/yourusername/ui-library)** – Reusable UI components for web projects  
-
----
-
 ## Connect With Me  
 <p>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
