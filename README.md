@@ -1,10 +1,6 @@
 <h1 align="center">I'm Wyslie Van Basa </h1>
 <h3 align="center">Front-End Developer | UI Designer</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wysFK/wysFK/main/banner.png" alt="Banner" width="100%">
-</p>
----
 
 ## About Me  
 - Passionate about crafting **modern, responsive web interfaces**  
