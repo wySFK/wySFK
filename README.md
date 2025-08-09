@@ -1,38 +1,53 @@
-<h1 align="center">Hi 👋, I'm Wyslie Van Basa </h1>
-<h3 align="center">Front-End Developer | UI/UX Enthusiast | Tech Explorer</h3>
+<h1 align="center">I'm Wyslie Van Basa </h1>
+<h3 align="center">Front-End Developer | UI Designer</h3>
 
----
-
-### 🚀 About Me  
-- 🌱 I’m currently learning **React, TailwindCSS**  
-- 💼 Open to work on **Front-end projects**  
-- 🎯 Goal: Create modern and user-friendly web apps  
-
-
----
-
-### 🛠 Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)  
-
----
-
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Banner" width="100%">
 </p>
 
 ---
 
-### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## About Me  
+- Passionate about crafting **modern, responsive web interfaces**  
+- Skilled in **HTML, CSS, JavaScript, Tailwind CSS, Vue.js**  
+- Currently learning **React and Next.js**  
+- Open to freelance and collaborative projects  
 
 ---
 
-<p align="center">✨ Always learning, always building ✨</p>
+## Skills & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,react,git,github,figma" />
+</p>
+
+---
+
+## GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+## Featured Projects  
+- **[Portfolio Website](https://github.com/yourusername/portfolio)** – Personal portfolio built with HTML, CSS, JavaScript  
+- **[E-Commerce Landing Page](https://github.com/yourusername/ecommerce)** – Fully responsive store landing page  
+- **[UI Components Library](https://github.com/yourusername/ui-library)** – Reusable UI components for web projects  
+
+---
+
+## Connect With Me  
+<p>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
+<p align="center">Clean. Minimal. Professional.</p>
