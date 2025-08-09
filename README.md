@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React, TailwindCSS**  
 - 💼 Open to work on **Front-end projects**  
 - 🎯 Goal: Create modern and user-friendly web apps  
-- ⚡ Fun fact: I design and code with equal love ❤️
+
 
 ---
 
