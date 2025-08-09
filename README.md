@@ -2,9 +2,8 @@
 <h3 align="center">Front-End Developer | UI Designer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/banner.png" alt="Banner" width="100%">
 </p>
-
 ---
 
 ## About Me  
